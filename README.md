@@ -10,23 +10,25 @@ Objectives
 5. Create MongoDB validation rules.
 6. Use MongoDB validation to ensure data consistency.
 
-create server.mjs
-execute: npm init -y 
-execute: npm i express dotenv mongoose
-edit package.json to correct file/ commands
-.gitinore and .env
-ignore both node_modules and .env
-populate .env w/PORT and mongoURI
-setup server.js boilerplate
-setup DB connection
-create schema
+#Steps
+
+1. create server.mjs
+2. execute: npm init -y 
+3. execute: npm i express dotenv mongoose
+4. edit package.json to correct file/ commands
+5. .gitinore and .env
+6. ignore both node_modules and .env
+7. populate .env w/PORT and mongoURI
+8. setup server.js boilerplate
+9. setup DB connection
+10. create schema
 
 //DB connection 
-import: mongoose and dotenv
-setup dotenv and connectionstr in variable
-create async connection function w/trycatch
-await mongoose.connect
-export function
+1. import: mongoose and dotenv
+2. setup dotenv and connectionstr in variable
+3. create async connection function w/trycatch
+4. await mongoose.connect
+5. export function
 
 All routes in this application:
 GET /seed: Fill database with hardcoded data - for testing purpose
