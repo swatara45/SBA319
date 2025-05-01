@@ -1,4 +1,4 @@
-const posts = [
+const allPosts = [
     {
       id: 1,
       title: 'Welcome to the Blog!',
@@ -26,4 +26,4 @@ const posts = [
     },
 ];
 
-export default posts;
+export default allPosts;

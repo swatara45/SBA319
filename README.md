@@ -31,7 +31,7 @@ Objectives
 5. export function
 
 All routes in this application:
-GET /seed: Fill database with hardcoded data - for testing purpose
+#####GET /seed: Fill database with hardcoded data - for testing purpose
 
 GET /users: View all users
 

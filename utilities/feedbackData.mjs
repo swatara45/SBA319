@@ -1,4 +1,4 @@
-const feedback = [
+const allFeedback = [
     {
       id: 1,
       postId: 1,
@@ -31,4 +31,4 @@ const feedback = [
     },
   ];
 
-  export default feedback;
+  export default allFeedback;
