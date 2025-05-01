@@ -50,12 +50,12 @@ GET /feedback/:id : View a feedback info by id
 DELETE /feedback/:id : Delete a feedback by id
 
 
-# What could you have done differently during the planning stages of your project to make the execution easier?
+1. What could you have done differently during the planning stages of your project to make the execution easier?
  I could have invested more time in breaking down user information into smaller, more actionable tasks. 
 
 
 
-# Were there any requirements that were difficult to implement? What do you think would make them easier to implement in future projects?
+2. Were there any requirements that were difficult to implement? What do you think would make them easier to implement in future projects?
 Yes, integrating a third-party API presented unexpected challenges due to incomplete documentation and inconsistent response formats
 
 # What would you add to or change about your application if given more time?
