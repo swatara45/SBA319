@@ -60,5 +60,3 @@ Yes, integrating a third-party API presented unexpected challenges due to incomp
 
 # What would you add to or change about your application if given more time?
 I will add error-handling logic to provide more informative feedback to users
-#
-Use this space to make notes for your future self about anything that you think is important to remember about this process, or that may aid you when attempting something similar again:
