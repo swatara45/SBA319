@@ -49,3 +49,15 @@ GET /feedback/:id : View a feedback info by id
 
 DELETE /feedback/:id : Delete a feedback by id
 
+
+# What could you have done differently during the planning stages of your project to make the execution easier?
+ I could have invested more time in breaking down user information into smaller, more actionable tasks. 
+
+
+
+# Were there any requirements that were difficult to implement? What do you think would make them easier to implement in future projects?
+
+# What would you add to or change about your application if given more time?
+
+#
+Use this space to make notes for your future self about anything that you think is important to remember about this process, or that may aid you when attempting something similar again:
