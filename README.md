@@ -56,8 +56,9 @@ DELETE /feedback/:id : Delete a feedback by id
 
 
 # Were there any requirements that were difficult to implement? What do you think would make them easier to implement in future projects?
+Yes, integrating a third-party API presented unexpected challenges due to incomplete documentation and inconsistent response formats
 
 # What would you add to or change about your application if given more time?
-
+I will add error-handling logic to provide more informative feedback to users
 #
 Use this space to make notes for your future self about anything that you think is important to remember about this process, or that may aid you when attempting something similar again:
